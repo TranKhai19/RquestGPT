@@ -1,0 +1,45 @@
+{
+    "identifiedFish": {
+      "name": "Clownfish",
+      "scientificName": "Amphiprioninae",
+      "family": "Pomacentridae",
+      "averageSize": 11,
+      "habitat": "Warm tropical reefs, often associated with sea anemones",
+      "geographicalRange": "Indo-Pacific region, including the Red Sea and Australian coast",
+      "rarity": "Common",
+      "conservationStatus": "Least Concern",
+      "distinctiveFeatures": "Bright orange with white stripes, mutualistic relationship with sea anemones",
+      "isSuitableForAquarium": true,
+      "tankRequirements": {
+        "minimumTankSize": 30,
+        "temperatureRange": [24, 27],
+        "pHRange": [7.8, 8.4],
+        "diet": "Omnivorous, including algae, plankton, and small crustaceans"
+      },
+      "behavior": "Generally peaceful but can be territorial, especially towards other clownfish",
+      "lifespan": 6,
+      "specialCareInstructions": "Requires anemone for optimal health and behavior, sensitive to water quality",
+      "interestingFacts": "Clownfish are protandrous hermaphrodites, meaning they can change gender from male to female.",
+      "imageURL": "url_to_identified_fish_image.jpg"
+    },
+    "similarFish": [
+      {
+        "name": "Ocellaris Clownfish",
+        "scientificName": "Amphiprion ocellaris",
+        "similarity": "High",
+        "imageURL": "url_to_ocellaris_clownfish_image.jpg"
+      },
+      {
+        "name": "Percula Clownfish",
+        "scientificName": "Amphiprion percula",
+        "similarity": "High",
+        "imageURL": "url_to_percula_clownfish_image.jpg"
+      },
+      {
+        "name": "Clark's Clownfish",
+        "scientificName": "Amphiprion clarkii",
+        "similarity": "Medium",
+        "imageURL": "url_to_clarks_clownfish_image.jpg"
+      }
+    ]
+  }
