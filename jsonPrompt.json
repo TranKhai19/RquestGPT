@@ -1,0 +1,15 @@
+{
+  "image_description": "A brightly colored fish with orange and white stripes swimming among coral.",
+  "fish_name": "Clownfish",
+  "request": {
+    "type": "detailed_information",
+    "fields": [
+      "scientificName",
+      "averageSize",
+      "habitat",
+      "diet",
+      "tankRequirements",
+      "interestingFacts"
+    ]
+  }
+}
